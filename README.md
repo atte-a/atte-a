@@ -28,7 +28,7 @@ I'm Atte, a full-stack developer based in Helsinki, Finland.
 - Created seed data for testing
 - Developed unit, integration and controller tests using JUnit and MockMvc  
 👉 [Live App](https://hh-backend-resepti.onrender.com/) | [Repository](https://github.com/Atte-A/hh-backend-resepti)
----
+
 
 #### 👟 **RunningShoes** 
 > React • Material UI • Node.js • Express • SQLite  
@@ -37,7 +37,7 @@ I'm Atte, a full-stack developer based in Helsinki, Finland.
 - Designed and implemented a REST API with CRUD functionality  
 - The application has a search feature and state management for switching themes (light/dark mode)  
 👉 [Repository](https://github.com/Atte-A/running-shoes)
----
+
 
 #### ☎️ **PhoneBook**  
 > React • Node.js • Express • MongoDB  
