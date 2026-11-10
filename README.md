@@ -27,7 +27,7 @@ I'm Atte, a full-stack developer based in Helsinki, Finland.
 - Added authentication and role-based access control with Spring Security  
 - Created seed data for testing
 - Developed unit, integration and controller tests using JUnit and MockMvc  
-👉 [Live App](https://hh-backend-resepti.onrender.com/) | [Repository](https://github.com/Atte-A/hh-backend-resepti)
+👉 [Repository](https://github.com/Atte-A/hh-backend-resepti)
 
 
 #### 👟 **RunningShoes** 
@@ -45,4 +45,4 @@ I'm Atte, a full-stack developer based in Helsinki, Finland.
 - Implemented a REST API with full CRUD operations for managing contacts  
 - Built and deployed backend service with database integration  
 - Deployed using Render  
-👉 [Live App](https://puhelinluettelo-backend-8x5a.onrender.com/) | [Repository](https://github.com/Atte-A/puhelinluettelo_backend)
+👉 [Repository](https://github.com/Atte-A/puhelinluettelo_backend)
